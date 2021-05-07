@@ -45,4 +45,6 @@ Như vậy, theo tôi, để có thể linh hoạt được, thì chúng ta cầ
 
 > Linh hoạt có nghĩa là có thể sử dụng nhiều biện pháp, nhưng vẫn tuân thủ theo những nguyên tắc cơ bản. Chính nguyên tắc sẽ đem lại sự linh hoạt.
 
+_P/S: Nếu như các bạn chưa có bất kỳ nguyên tắc nào cảm thấy có thể dùng làm nguyên tắc cơ bản, không sao cả, chính bản thân cái tuyên ngôn Agile cũng là 1 nguyên tắc cơ bản có thể bám vào._
+
 By Nguyễn Xuân Kiên
